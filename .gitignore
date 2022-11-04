@@ -136,7 +136,7 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
-# Environments
+# Environme nts
 .env
 .venv
 env/
@@ -203,3 +203,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/macos,linux,python,windows,visualstudiocode
+
+.idea/
